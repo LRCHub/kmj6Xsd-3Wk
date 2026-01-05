@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "想思想愛 (Sped Up)",
+  "base_artist": "アルヒノータ",
+  "createdAt": "2026-01-05T14:07:00.644256Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想思想愛",
+      "artist": "アルヒノータ",
+      "has_synced": false,
+      "path": "select/pl_01_想思想愛_アルヒノータ.txt"
+    }
+  ]
+}
